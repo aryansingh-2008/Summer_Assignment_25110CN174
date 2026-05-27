@@ -16,6 +16,7 @@ public class Q3 {
             fact = fact * i ; 
         }
          System.out.print("Factorial  : " +fact);
+         Sc.close();
     }
     
 }

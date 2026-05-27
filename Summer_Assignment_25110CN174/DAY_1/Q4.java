@@ -17,5 +17,6 @@ public class Q4 {
         }
 
         System.out.println("Total digits = " + count);
+        
     }
 }
