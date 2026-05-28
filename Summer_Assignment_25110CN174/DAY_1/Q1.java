@@ -17,7 +17,7 @@ public class Q1 {
         }
 
         System.out.println("Sum of n Number = " + sum);
-Sc.close();
+         Sc.close();
     }    
 
 }
